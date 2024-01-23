@@ -1,6 +1,12 @@
 ## 목표
-### - 개발 환경을 설정
+### - 개발 환경 설정
 
+- Node.js
+- NPM(Node Package Manager)
+  - package.json / package-lock.json
+  - node_modules
+  - npx
+- ES Modules vs CommonJS
 
 ---
 
