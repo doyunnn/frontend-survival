@@ -82,8 +82,8 @@ npm run lint && npm run check
 
 ### 참고 링크
 - 🚀 [**Parcel 공식문서**](https://parceljs.org/)
-- https://github.com/ahastudio/til/tree/main/parcel
-- https://github.com/ahastudio/til/tree/main/vite
+- [parcel](https://github.com/ahastudio/til/tree/main/parcel)
+- [vite](https://github.com/ahastudio/til/tree/main/vite)
 - 🚀 [**ESLint 공식문서**](https://eslint.org/)
 - [린트](https://ko.wikipedia.org/wiki/린트_(소프트웨어))
 - [정적 프로그램 분석](https://ko.wikipedia.org/wiki/정적_프로그램_분석)
