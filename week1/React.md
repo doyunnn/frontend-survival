@@ -120,6 +120,31 @@ export default function App() {
         }
         export default React.memo(Decoration);
     ```
+  - ‼️ 단일 책임 원칙을 따르는 컴포넌트를 작성하면 리렌더링을 최소화할 수 있다.
+#### 흥미로운 관점의 전환
+```tsx
+import Clock from "./Clock";
+import PrimeCalculator from "./PrimeCalculator";
+
+// PrimeCalculator를 순수 컴포넌트로 변경
+const PurePrimeCalculator = React.memo(PrimeCalculator);
+
+function App() {
+    const time = useTime();
+
+    // 하루의 시간에 따라 적절한 배경색이 생성됩니다.
+    const backgroundColor = getBackgroundColorFromTime(time);
+
+    return (
+        <div style={{ backgroundColor }}>
+            <Clock time={time} />
+            <PurePrimeCalculator />
+        </div>
+    );
+} 
+```
+
+- 상위 컴포넌트를 최적화
 
 ### 참고 링크
 -  [**🚀 React 공식문서**](https://react.dev)
