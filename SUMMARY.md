@@ -13,3 +13,8 @@
 - [2주차](week2/README.md)
 
   - [1. JSX](week2/JSX.md)
+
+- [3주차](week3/README.md)
+
+  - [1. React Component](week3/ReactComponent.md)
+  - [2. React State](week3/ReactState.md)
