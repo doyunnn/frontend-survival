@@ -1,5 +1,5 @@
 ## 목표
-### - JSX
+### - Express
 
 - Express 란
 - URL 구조

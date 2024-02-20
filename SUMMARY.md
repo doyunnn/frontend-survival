@@ -22,3 +22,4 @@
 - [4주차](week4/README.md)
 
   - [1. Express](week4/Express.md)
+  - [2. Fetch API & CORS](week4/APICORS.md)
