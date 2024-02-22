@@ -93,22 +93,21 @@ useEffect(() => {
 	document.title = `Now: ${new Date().getTime()}`;
 });
 ```
-이머를 on/off하는 기능을 그냥 만들면 문제가 발생한다.
+타이머를 on/off하는 기능을 그냥 만들면 문제가 발생한다.
 ```tsx 
 function Timer() {
 useEffect(() => {
-setInterval(() => {
-document.title = `Now: ${new Date().getTime()}`;
+    setInterval(() => {
+    document.title = `Now: ${new Date().getTime()}`;
 }, 100);
 });
-
-	return (
+    return (
 		<p>Playing</p>
 	);
 }
 
 export default function TimerControl() {
-const [playing, setPlaying] = useState(false);
+    const [playing, setPlaying] = useState(false);
 
 	const handleClick = () => {
 		setPlaying(!playing);
@@ -145,11 +144,7 @@ useEffect(() => {
 });
 ```
 
-### 처음에 한번만 실행하기
-
-의존성 배열에서 아무 것도 지정하지 않으면 맨 처음에 딱 한번만 실행하게 할 수 있다.
-
-주로 API를 호출해서 데이터를 얻을 때 사용한다.
+### 처음에 한번만 실행하기, 데이터 호출 예제
 
 ```jsx
 const [products, setProducts] = useState<Product[]>([]);
@@ -165,7 +160,6 @@ useEffect(() => {
 	fetchProducts();
 }, []);
 ```
-
 Fetch 함수의 위치가 고민된다면, Dan Abramov의 글을 다시 보자.
 
 - [useEffect 완벽가이드](https://overreacted.io/a-complete-guide-to-useeffect/)
