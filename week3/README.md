@@ -1,4 +1,4 @@
-# 3주차 JSX
+# 3주차 Component, State
 
 ## 목차
 
