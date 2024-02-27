@@ -30,3 +30,4 @@
 - [5주차](week5/README.md)
 
   - [1. TDD](week5/TDD.md)
+  - [2. React Testing Library](week5/TestingLibrary.md)
