@@ -31,3 +31,5 @@
 
   - [1. TDD](week5/TDD.md)
   - [2. React Testing Library](week5/TestingLibrary.md)
+  - [3. MSW](week5/MSW.md)
+  - [4. Playwright](week5/Playwright.md)
