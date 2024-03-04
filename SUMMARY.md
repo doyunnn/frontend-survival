@@ -33,3 +33,8 @@
   - [2. React Testing Library](week5/TestingLibrary.md)
   - [3. MSW](week5/MSW.md)
   - [4. Playwright](week5/Playwright.md)
+
+- [6주차](week6/README.md)
+
+  - [1. External Store](week6/ExternalStore.md)
+  - [2. TSyringe](week6/TSyringe.md)
