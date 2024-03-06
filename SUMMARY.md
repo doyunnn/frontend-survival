@@ -38,3 +38,5 @@
 
   - [1. External Store](week6/ExternalStore.md)
   - [2. TSyringe](week6/TSyringe.md)
+  - [3. Redux](week6/Redux.md)
+  - [4. usestore-ts](week6/usestore-ts.md)
