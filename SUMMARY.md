@@ -40,3 +40,10 @@
   - [2. TSyringe](week6/TSyringe.md)
   - [3. Redux](week6/Redux.md)
   - [4. usestore-ts](week6/usestore-ts.md)
+
+- [7주차](week7/README.md)
+
+  - [1. Routing](week7/Routing.md)
+  - [2. Routes](week7/Routes.md)
+  - [3. Router](week7/Router.md)
+  - [4. Navigation](week7/Navigation.md)
