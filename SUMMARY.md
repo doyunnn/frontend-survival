@@ -53,3 +53,6 @@
   - [1. Design System](week8/DesignSystem.md)
   - [2. Style Basics](week8/StyleBasics.md)
   - [3. CSS in JS](week8/CSSInJS.md)
+  - [4. Styled Components](week8/StyledComponents.md)
+  - [5. Props Attrs](week8/Props-Attrs.md)
+  - [6. Global Style & Theme](week8/GlobalStyle-Theme.md)
