@@ -56,3 +56,7 @@
   - [4. Styled Components](week8/StyledComponents.md)
   - [5. Props Attrs](week8/Props-Attrs.md)
   - [6. Global Style & Theme](week8/GlobalStyle-Theme.md)
+
+- [9주차](week9/README.md)
+
+  - [1. Init-Project](week9/Init-Project.md)
