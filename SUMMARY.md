@@ -60,3 +60,5 @@
 - [9주차](week9/README.md)
 
   - [1. Init-Project](week9/Init-Project.md)
+  - [2. Product List](week9/ProductList.md)
+  - [3. Categories](week9/Categories.md)
