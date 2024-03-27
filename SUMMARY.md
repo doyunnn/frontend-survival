@@ -62,3 +62,5 @@
   - [1. Init-Project](week9/Init-Project.md)
   - [2. Product List](week9/ProductList.md)
   - [3. Categories](week9/Categories.md)
+  - [4. Product Detail](week9/ProductDetail.md)
+  - [5. Cart List](week9/CartList.md)
