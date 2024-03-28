@@ -205,10 +205,7 @@ export const nullProductDetail: ProductDetail = {
 ```ts
 export default function useFetchProduct({ productId }: {
   productId: string;
-}): {
-  loading: boolean;
-  error: boolean;
-} {
+}) {
   const [{ loading, error }, productDetailStore] = useProductDetailStore();
 
   useEffect(() => {
