@@ -72,3 +72,5 @@
   - [2. Check User](week10/CheckUser.md)
   - [3. Logout](week10/Logout.md)
   - [4. Signup](week10/Signup.md)
+  - [5. Order List](week10/OrderList.md)
+  - [6. Order Detail](week10/OrderDetail.md)
