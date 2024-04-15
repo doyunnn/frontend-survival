@@ -80,3 +80,9 @@
   - [1. Order](week11/Order.md)
   - [2. Payment](week11/Payment.md)
   - [3. Create Order](week11/CreateOrder.md)
+
+- [12주차](week12/README.md)
+
+  - [1. Init-admin](week12/Init-Admin.md)
+  - [2. Admin Login](week12/Admin-Login.md)
+  - [3. Users](week12/Users.md)
