@@ -5,3 +5,5 @@
 - Init Admin
 - Admin Login
 - Users
+- Categories
+- Order List

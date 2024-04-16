@@ -86,3 +86,5 @@
   - [1. Init-admin](week12/Init-Admin.md)
   - [2. Admin Login](week12/Admin-Login.md)
   - [3. Users](week12/Users.md)
+  - [4. Categories](week12/Categories.md)
+  - [5. Order List](week12/OrderList.md)
