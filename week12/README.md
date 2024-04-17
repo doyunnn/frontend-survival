@@ -7,3 +7,4 @@
 - Users
 - Categories
 - Order List
+- Product List

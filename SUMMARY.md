@@ -88,3 +88,4 @@
   - [3. Users](week12/Users.md)
   - [4. Categories](week12/Categories.md)
   - [5. Order List](week12/OrderList.md)
+  - [6. Product List](week12/ProductList.md)
